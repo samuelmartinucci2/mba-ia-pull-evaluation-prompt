@@ -94,4 +94,4 @@ Na otimização do prompt `bug_to_user_story_v2`, foram aplicadas as seguintes t
 #### Evidências no LangSmith
 ![alt text](resultado.jpg)
 
-- **Link público do dashboard:** `[INSIRA O LINK PÚBLICO DO SEU PROJETO NO LANGSMITH AQUI]`
+- **Link público do prompt:** `https://smith.langchain.com/hub/random1231232323/bug_to_user_story_v2`
