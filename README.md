@@ -291,11 +291,6 @@ python src/evaluate.py
 
 **1. Repositório público no GitHub** (fork do repositório base) contendo:
 
-<<<<<<< Updated upstream
-- Todo o código-fonte implementado
-- Arquivo `prompts/bug_to_user_story_v2.yml` 100% preenchido e funcional
-- Arquivo `README.md` atualizado
-=======
 Screenshot: ![alt text](resultado.jpg)
 
 | Métrica | v1 (ruim) | v2 (otimizado) | Critério |
@@ -306,7 +301,6 @@ Screenshot: ![alt text](resultado.jpg)
 | Clarity | 0.50 ✗ | **0.85** ✓ | ≥ 0.8 |
 | Precision | 0.46 ✗ | **0.85** ✓ | ≥ 0.8 |
 | **Média geral** | ~0.48 | **0.8803** | ≥ 0.8 |
->>>>>>> Stashed changes
 
 **2. README.md deve conter:**
 
